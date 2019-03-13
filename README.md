@@ -6,7 +6,7 @@ install globaly node on your computer
 
 ```sh
 # download your code locally
-git clone https://github.com/GITHUB_LOGIN/js-training.git
+git clone https://github.com/helderscrolls/js-training.git
 # don't forget to remplace GITHUB_LOGIN by your github login
 
 # change working directory to the newly cloned repository
@@ -158,7 +158,7 @@ the style
 
 ## Automated test
 We recommand to use [Travis](https://travis-ci.org) to automatise the testing phase, allow this repo and add this code in your README
-`[![Build Status](https://travis-ci.org/GITHUB_LOGIN/js-training.svg?branch=master)](https://travis-ci.org/GITHUB_LOGIN/js-training)`
+[![Build Status](https://travis-ci.org/helderscrolls/js-training.svg?branch=master)](https://travis-ci.org/helderscrolls/js-training)
 by remplacing GITHUB_LOGIN by your github login
 
 ## Contribute
