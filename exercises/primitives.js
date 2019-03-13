@@ -8,7 +8,10 @@
  */
 
 // Your code :
-
+const str = 'test';
+const num = 42;
+const bool = false;
+const undef = undefined;
 
 //* Begin of tests
 const assert = require('assert')
