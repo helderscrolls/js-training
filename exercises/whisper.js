@@ -7,9 +7,11 @@
  *
  */
 
+// Your code :
 
+const whisper = string => '\*' + string.toLowerCase() + '\*'
 //* Begin of tests
 const assert = require('assert')
 
-assert.fail('You must write your own tests')
+assert.strictEqual(whisper('WORK BITCH'), '\*work bitch\*')
 // End of tests */

@@ -6,6 +6,9 @@
  *
  */
 
+// Your code :
+
+const sentence = tab => tab.join(' ');
 
 //* Begin of tests
 const assert = require('assert')
